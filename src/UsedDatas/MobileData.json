@@ -1,0 +1,170 @@
+
+[
+    {
+      "product": "iPhone 14",
+      "price": 999,
+      "description": "Apple's flagship smartphone with a 6.1-inch Super Retina XDR display, powered by the A15 Bionic chip, offering a 12MP dual-camera system and 5G support.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-1.jpg",
+      "specifications": {
+        "display": "6.1-inch Super Retina XDR",
+        "chip": "A15 Bionic",
+        "camera": "12MP dual camera",
+        "battery": "Up to 20 hours video playback",
+        "storage": "128GB, 256GB, 512GB",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.3",
+        "OS": "iOS 16"
+      }
+    },
+    {
+      "product": "Samsung Galaxy S23",
+      "price": 899,
+      "description": "Samsung's premium device with a 6.6-inch AMOLED display, Snapdragon 8 Gen 2 processor, and a powerful 50MP triple-camera system.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-1.jpg",
+      "specifications": {
+        "display": "6.6-inch Dynamic AMOLED 2X",
+        "chip": "Snapdragon 8 Gen 2",
+        "camera": "50MP + 12MP + 10MP triple camera",
+        "battery": "4500mAh, 25W fast charging",
+        "storage": "128GB, 256GB, 512GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+        "OS": "Android 13, One UI 5"
+      }
+    },
+    {
+      "product": "Google Pixel 7",
+      "price": 799,
+      "description": "Google's flagship phone with a 6.3-inch OLED display, powered by Google Tensor G2, and known for its exceptional 50MP camera and software features.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-7-1.jpg",
+      "specifications": {
+        "display": "6.3-inch OLED, 90Hz refresh rate",
+        "chip": "Google Tensor G2",
+        "camera": "50MP main + 12MP ultra-wide",
+        "battery": "4355mAh, 30W fast charging",
+        "storage": "128GB, 256GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.2",
+        "OS": "Android 13"
+      }
+    },
+    {
+      "product": "OnePlus 11",
+      "price": 729,
+      "description": "A performance-focused smartphone with a 6.7-inch AMOLED display, Snapdragon 8 Gen 2 processor, and a versatile 50MP triple camera system.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-1.jpg",
+      "specifications": {
+        "display": "6.7-inch AMOLED, 120Hz refresh rate",
+        "chip": "Snapdragon 8 Gen 2",
+        "camera": "50MP + 48MP + 32MP triple camera",
+        "battery": "5000mAh, 100W fast charging",
+        "storage": "128GB, 256GB",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.3",
+        "OS": "OxygenOS based on Android 13"
+      }
+    },
+    {
+      "product": "Xiaomi Mi 13",
+      "price": 659,
+      "description": "Xiaomi's affordable flagship with a 6.55-inch AMOLED display, Snapdragon 8 Gen 2 processor, and an impressive 108MP primary camera.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-13-1.jpg",
+      "specifications": {
+        "display": "6.55-inch AMOLED, 120Hz refresh rate",
+        "chip": "Snapdragon 8 Gen 2",
+        "camera": "108MP main + 13MP ultra-wide + 5MP macro",
+        "battery": "4500mAh, 67W fast charging",
+        "storage": "128GB, 256GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+        "OS": "MIUI 13, based on Android 12"
+      }
+    },
+    {
+      "product": "Oppo Find X6",
+      "price": 699,
+      "description": "A premium device with a large 6.78-inch AMOLED display, MediaTek Dimensity 9000 processor, and a versatile 50MP triple camera setup.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x6-1.jpg",
+      "specifications": {
+        "display": "6.78-inch AMOLED, 120Hz refresh rate",
+        "chip": "MediaTek Dimensity 9000",
+        "camera": "50MP main + 50MP ultra-wide + 50MP telephoto",
+        "battery": "4800mAh, 80W fast charging",
+        "storage": "256GB, 512GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+        "OS": "ColorOS based on Android 13"
+      }
+    },
+    {
+      "product": "Realme GT Neo 5",
+      "price": 599,
+      "description": "A high-performance phone with a 6.7-inch AMOLED display, Snapdragon 8 Gen 1, and a 64MP triple-camera setup, designed for gaming and multimedia.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt-neo5-1.jpg",
+      "specifications": {
+        "display": "6.7-inch AMOLED, 120Hz refresh rate",
+        "chip": "Snapdragon 8 Gen 1",
+        "camera": "64MP + 8MP + 2MP triple camera",
+        "battery": "5000mAh, 150W fast charging",
+        "storage": "128GB, 256GB",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.2",
+        "OS": "Realme UI 4.0, based on Android 13"
+      }
+    },
+    {
+      "product": "Sony Xperia 1 V",
+      "price": 999,
+      "description": "Sony's flagship offering with a 6.5-inch OLED display, Snapdragon 8 Gen 2, a 12MP triple-camera system, and support for 4K HDR content.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1v-1.jpg",
+      "specifications": {
+        "display": "6.5-inch OLED, 120Hz refresh rate",
+        "chip": "Snapdragon 8 Gen 2",
+        "camera": "12MP + 12MP + 12MP triple camera",
+        "battery": "5000mAh, 30W fast charging",
+        "storage": "256GB, 512GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+        "OS": "Android 13"
+      }
+    },
+    {
+      "product": "Motorola Edge 40 Pro",
+      "price": 799,
+      "description": "Motorola's premium device featuring a 6.67-inch OLED display, Snapdragon 8 Gen 2 processor, and a powerful 50MP triple camera setup.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge40-pro-1.jpg",
+      "specifications": {
+        "display": "6.67-inch OLED, 144Hz refresh rate",
+        "chip": "Snapdragon 8 Gen 2",
+        "camera": "50MP + 12MP + 50MP triple camera",
+        "battery": "4600mAh, 125W fast charging",
+        "storage": "256GB, 512GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+        "OS": "My UX based on Android 13"
+      }
+    },
+    {
+      "product": "Vivo X90 Pro",
+      "price": 849,
+      "description": "Vivo's high-end smartphone with a 6.78-inch AMOLED display, MediaTek Dimensity 9200 processor, and an advanced 50MP camera with Zeiss optics.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90-pro-1.jpg",
+      "specifications": {
+        "display": "6.78-inch AMOLED, 120Hz refresh rate",
+        "chip": "MediaTek Dimensity 9200",
+        "camera": "50MP + 50MP + 12MP triple camera",
+        "battery": "4870mAh, 120W fast charging",
+        "storage": "256GB, 512GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+        "OS": "Funtouch OS based on Android 13"
+      }
+    },
+    {
+      "product": "Honor Magic 5 Pro",
+      "price": 949,
+      "description": "A top-tier smartphone with a 6.81-inch OLED display, Snapdragon 8 Gen 2, and a powerful 50MP quad-camera setup with advanced AI features.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/honor/honor-magic5-pro-1.jpg",
+      "specifications": {
+        "display": "6.81-inch OLED, 120Hz refresh rate",
+        "chip": "Snapdragon 8 Gen 2",
+        "camera": "50MP + 50MP + 50MP + 50MP quad camera",
+        "battery": "5100mAh, 100W fast charging",
+        "storage": "256GB, 512GB",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+        "OS": "MagicOS 7.1 based on Android 13"
+      }
+    }
+    
+  ]
+  

@@ -1,0 +1,33 @@
+
+.navbar {
+    height: 10vh;
+    padding: 1rem;
+    margin-bottom: 10px;
+    border-radius: 10px;
+     
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    display: inline-block;
+  }
+  
+  .navbar-link {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+  }
+  
+  .navbar-link:hover {
+    transition: all 0;
+    color: rgb(27, 191, 206);
+    
+  }
